@@ -1,0 +1,49 @@
+
+h1 {
+    color: #b03060;
+    text-align: center;
+    font-size: 35px;
+}
+#discription{
+    text-align: center;
+}
+
+h2 {
+    color: #8b3a62;
+    font-size: 21px;
+}
+p, li{
+    color: #444;
+    font-size: 16px;
+}
+a:hover{
+    color: #ff69b4;
+}
+img{
+    padding: 10px;
+    margin: 30px;
+        margin-top: 5px;
+    border: 2px, solid, #b03060;
+
+}
+
+header{
+    background-color: #ffe4ec;
+    padding: 30px;
+}
+nav{
+    background-color: #f8c8dc;
+    padding: 30px;
+    text-align: center;
+}
+main{
+    background-color: #ffff;
+    padding: 30px;
+}
+footer{
+    background-color: #ffe4ec;
+    padding: 30px;
+}
+#link:visited{
+color: #800080;
+}
